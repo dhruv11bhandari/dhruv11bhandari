@@ -10,9 +10,8 @@ Whether it's front-end design, backend logic, or full-stack applications — I e
 
 - 📕 I'm currently in my freshmen year 
 - 🧠 I love working on innovative projects and challenging my limits  
-- 🏆 **Winner of the Next Big Innovator Hackathon** – Bangalore  
+- 🏆 **Winner of the Next Big Innovator Hackethon** – Bangalore  
 - 🌱 Constantly learning and growing – currently diving deeper into **Spring Boot**, **React**, and **GitHub Actions**
-- 📈 I believe in clean code, meaningful UI/UX, and building for impact
 
 ---
 
