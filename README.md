@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**dhruv11bhandari/dhruv11bhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there! I'm Dhruv Bhandari
 
-Here are some ideas to get you started:
+I'm a passionate **Computer Science student** who loves to build cool stuff with code and solve real-world problems through technology. 
+Whether it's front-end design, backend logic, or full-stack applications — I enjoy bringing ideas to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 A Little About Me
+
+- 📕 I'm currently in my freshmen year 
+- 🧠 I love working on innovative projects and challenging my limits  
+- 🏆 **Winner of the Next Big Innovator Hackathon** – Bangalore  
+- 🌱 Constantly learning and growing – currently diving deeper into **Spring Boot**, **React**, and **GitHub Actions**
+- 📈 I believe in clean code, meaningful UI/UX, and building for impact
+
+---
+
