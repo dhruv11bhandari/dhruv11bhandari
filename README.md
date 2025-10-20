@@ -1,12 +1,12 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 I am a Blockchain Developer
+# Hello! 👋 I am dhruv bhandari a cool guy
 <div>
 <br/>
-- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance blockchain, web applications<br/>
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+- 🔭 Full-stack developer with some experience in a company as an intern <br/>
+- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP (kinda samrt)<br/>
+- 👍 Experienced in compnay projects that were kinda lame<br/>
+- 😍 Developed some shit Apps and integrated with web and ChatGPT.<br/>
+- 😉 Deep knowledge about boring stuff in computer science.</br>
 
 </div>
 
@@ -136,11 +136,7 @@
  </tr>
 </table>
 <div align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dhruv11bhandari/dhruv11bhandari/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dhruv11bhandari/dhruv11bhandari/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/dhruv11bhandari/dhruv11bhandari/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+ 
 </div>
 <br><br>
 </div>
