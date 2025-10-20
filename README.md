@@ -1,7 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋 I am Dhruv Bhandari — a cool guy 😎
-
-⭐️ **"If it works, don’t touch it." - dhruv bhandari ** 
 <div>
 <br/>
 - 🔭 Full-stack developer with some experience in a company as an intern <br/>
@@ -131,6 +129,7 @@
       <br>PostgreSQL
     </td>
   </tr>
+</table>
 </div>
 
 ---
@@ -145,6 +144,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv11bhandari&theme=github-dark" alt="GitHub Activity Graph"/>
 </p>
+
 ---
 
-
+⭐️ **"If it works, don’t touch it."**
