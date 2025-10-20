@@ -145,7 +145,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv11bhandari&theme=github-dark" alt="GitHub Activity Graph"/>
 </p>
-🫶🫶🫶🫶🫶🫶🫶🫶 ye kinda not active here (who tf names a platform "GITHUB")🫶🫶🫶🫶🫶🫶🫶🫶🫶
 ---
 
 
