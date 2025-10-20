@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋 I am Dhruv Bhandari — a cool guy 😎
 
-⭐️ **"If it works, don’t touch it." - my policy ** 
+⭐️ **"If it works, don’t touch it." - dhruv bhandari ** 
 <div>
 <br/>
 - 🔭 Full-stack developer with some experience in a company as an intern <br/>
