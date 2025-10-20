@@ -5,8 +5,8 @@
 - 🔭 Full-stack developer with some experience in a company as an intern <br/>
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP (kinda samrt)<br/>
 - 👍 Experienced in compnay projects that were kinda lame<br/>
-- 😍 Developed some shit Apps and integrated with web and ChatGPT.<br/>
-- 😉 Deep knowledge about boring stuff in computer science.</br>
+- 😁 Developed some shit Apps and integrated with web and ChatGPT.<br/>
+- ✌️ Deep knowledge about boring stuff in computer science.</br>
 
 </div>
 
