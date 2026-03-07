@@ -1,20 +1,24 @@
+# 👋 Hi, I'm Dhruv Bhandari
 
-# Hello! 👋 I am Dhruv Bhandari — a cool guy 😎
+**Computer Science Student | Full-Stack Developer |(wannabe) AI & Systems Builder**
 
+I build software products, intelligent systems, and experimental tools that combine **AI, data, and real-world applications**.
 
- 🫶🫶🫶🫶🫶🫶**"If it works, don’t touch it."**🫶🫶🫶🫶🫶🫶🫶
+My work focuses on **building practical systems from scratch, exploring new technologies, and solving real problems with software.**
 
- 
-<div>
-<br/>
-- 🔭 Full-stack developer with some experience in a company as an intern <br/>
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP <br/>
-- 👍 Experienced in company projects that were kinda lame<br/>
-- 😁 Developed some random apps and integrated them with web and ChatGPT<br/>
-- ✌️ Deep knowledge about boring stuff in computer science.<br/>
-</div>
+🏆 **Winner — Next Big Innovator Hackathon (Bangalore)**
 
 ---
+
+## Areas of Interest
+
+- Artificial Intelligence
+- Full-Stack Systems
+- Developer Tools
+- Data-Driven Applications
+- Algorithmic Thinking
+- Scalable Software Systems
+
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
