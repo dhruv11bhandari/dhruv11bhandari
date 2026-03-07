@@ -155,4 +155,3 @@ My work focuses on **building practical systems from scratch, exploring new tech
 
 ---
 
- 🫡🫡🫡🫡🫡** ye kinda not active here**🫡🫡🫡🫡🫡
