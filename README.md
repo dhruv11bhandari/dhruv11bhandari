@@ -8,7 +8,7 @@
 <div>
 <br/>
 - 🔭 Full-stack developer with some experience in a company as an intern <br/>
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP (kinda smart 😅)<br/>
+- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP <br/>
 - 👍 Experienced in company projects that were kinda lame<br/>
 - 😁 Developed some random apps and integrated them with web and ChatGPT<br/>
 - ✌️ Deep knowledge about boring stuff in computer science.<br/>
