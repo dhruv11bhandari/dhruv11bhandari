@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dhruv Bhandari
+# Hi, I'm Dhruv Bhandari
 
 **Computer Science Student | Full-Stack Developer |(wannabe) AI & Systems Builder**
 
@@ -6,7 +6,7 @@ I build software products, intelligent systems, and experimental tools that comb
 
 My work focuses on **building practical systems from scratch, exploring new technologies, and solving real problems with software.**
 
-🏆 **Winner — Next Big Innovator Hackathon (Bangalore)**
+**Winner — Next Big Innovator Hackathon (Bangalore)**
 
 ---
 
@@ -20,7 +20,7 @@ My work focuses on **building practical systems from scratch, exploring new tech
 - Scalable Software Systems
 
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="left"> Languages and Tools:</h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -143,15 +143,6 @@ My work focuses on **building practical systems from scratch, exploring new tech
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv11bhandari&show_icons=true&theme=github_dark" alt="GitHub Stats" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv11bhandari&theme=github-dark" alt="GitHub Activity Graph"/>
-</p>
-
----
 
