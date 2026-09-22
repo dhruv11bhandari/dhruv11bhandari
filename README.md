@@ -6,7 +6,7 @@ I build software products, intelligent systems, and experimental tools that comb
 
 My work focuses on **building practical systems from scratch, exploring new technologies, and solving real problems with software.**
 
-**Winner — Next Big Innovator Hackathon (Bangalore)**
+**Winner — Next Big Innovator Hackathon  (Bangalore)**
 
 ---
 
