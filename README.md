@@ -10,7 +10,6 @@ My work focuses on **building practical systems from scratch, exploring new tech
 
 ---
 
-
 ## Areas of Interest
 
 - Artificial Intelligence
