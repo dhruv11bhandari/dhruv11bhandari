@@ -19,7 +19,7 @@ My work focuses on **building practical systems from scratch, exploring new tech
 - Algorithmic Thinking
 - Scalable Software Systems
 
-
+ 
 <h3 align="left"> Languages and Tools:</h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
