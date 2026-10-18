@@ -2,7 +2,6 @@
 
 **Computer Science Student | Full-Stack Developer |(wannabe) AI & Systems Builder**
 
-
 I build software products, intelligent systems, and experimental tools that combine **AI, data, and real-world applications**.
 
 My work focuses on **building practical systems from scratch, exploring new technologies, and solving real problems with software .**
