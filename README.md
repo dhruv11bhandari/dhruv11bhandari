@@ -3,12 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,40:171717,70:343a40,100:737373&text=DHRUV%20BHANDARI&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=%3E%20software%20%7C%20AI%20%7C%20systems&descAlignY=58&descSize=17" width="100%" alt="Monochrome Dhruv Bhandari banner" />
 
 <a href="https://github.com/dhruv11bhandari">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=D1D5DB&center=true&vCenter=true&width=820&height=55&repeat=true&lines=%24+who_am_i+%E2%86%92+Dhruv+Bhandari;%24+role+%E2%86%92+CS+Student+%7C+Full-Stack+Developer;%24+building+%E2%86%92+AI+%2B+Practical+Software;%24+status+%E2%86%92+learning+%26+shipping+%E2%9A%A1" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=D1D5DB&center=true&vCenter=true&width=820&height=55&repeat=true&lines=%24+who_am_i+%E2%86%92+Dhruv+Bhandari;%24+role+%E2%86%92+CS+Student+%7C+Full-Stack+Developer;%24+building+%E2%86%92+AI+%2B+Practical+Software;%24+recognition+%E2%86%92+Hackathon+Winner+%28Bangalore%29;%24+status+%E2%86%92+learning+%26+shipping" alt="Typing introduction" />
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=dhruv11bhandari&label=VISITORS&color=9CA3AF&style=for-the-badge&labelColor=111111" alt="Profile visitors" />
+<img src="https://img.shields.io/badge/HACKATHON-Winner-9CA3AF?style=for-the-badge&labelColor=111111" alt="Hackathon winner" />
 <a href="https://github.com/dhruv11bhandari?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-9CA3AF?style=for-the-badge&labelColor=111111" alt="Explore projects" /></a>
 <a href="https://www.linkedin.com/in/dhruv-bhandari-b08041364/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6B7280?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
@@ -16,15 +17,21 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
+<img src="./assets/glow-line.svg" width="100%" height="3" alt="" />
+
+<div align="center">
+  <img src="./assets/hero-terminal.svg" width="100%" alt="Terminal introduction: Dhruv Bhandari, Computer Science Student and Full-Stack Developer, Winner of The Next Big Innovator Bangalore Makethon" />
+</div>
+
+<img src="./assets/glow-line.svg" width="100%" height="3" alt="" />
 
 ## Areas I Explore
 
 <p align="center"><sub>THREE DIRECTIONS &nbsp; / &nbsp; ONE THROUGH LINE</sub></p>
 
-| **01 / INTELLIGENCE** | **02 / PRODUCT** | **03 / SYSTEMS** |
-|:--|:--|:--|
-| **AI Applications**<br><sub>Knowledge · Search · Automation</sub> | **Full-Stack Products**<br><sub>Interfaces · APIs · End-to-end builds</sub> | **Systems &amp; Tools**<br><sub>Pipelines · Developer workflows</sub> |
+<div align="center">
+  <img src="./assets/areas.svg" width="100%" alt="Intelligence: AI applications. Product: full-stack products. Systems: systems and tools." />
+</div>
 
 <p align="center"><strong>Useful software.</strong></p>
 
@@ -32,20 +39,24 @@
 
 <p align="center"><sub>FROM FIRST IDEA TO SHARED WORK</sub></p>
 
-<p align="center">
-  <code>01 &nbsp; Idea</code> &nbsp; → &nbsp;
-  <code>02 &nbsp; Prototype</code> &nbsp; → &nbsp;
-  <code>03 &nbsp; Test and refine</code> &nbsp; → &nbsp;
-  <code>04 &nbsp; Share</code>
-</p>
+<div align="center">
+  <img src="./assets/build-loop.svg" width="100%" alt="Build loop: Idea, Prototype, Test and refine, Share, then iterate" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
+<img src="./assets/glow-line.svg" width="100%" height="3" alt="" />
 
 ## Tools & Topics
 
 <div align="center">
 
 
+
+<img src="https://img.shields.io/badge/-Artificial%20Intelligence-27272A?style=flat-square" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/-Full--Stack%20Systems-27272A?style=flat-square" alt="Full-Stack Systems" />
+<img src="https://img.shields.io/badge/-Developer%20Tools-27272A?style=flat-square" alt="Developer Tools" />
+<img src="https://img.shields.io/badge/-Data--Driven%20Applications-27272A?style=flat-square" alt="Data-Driven Applications" />
+<img src="https://img.shields.io/badge/-Algorithmic%20Thinking-27272A?style=flat-square" alt="Algorithmic Thinking" />
+<img src="https://img.shields.io/badge/-Scalable%20Software%20Systems-27272A?style=flat-square" alt="Scalable Software Systems" />
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -184,6 +195,7 @@
   </tr>
 </table>
 </div>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
 
@@ -203,6 +215,10 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=dhruv11bhandari&theme=dark&background=0d1117&border=52525B&ring=E5E7EB&fire=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E5E7EB&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv11bhandari&bg_color=0d1117&color=d1d5db&line=9ca3af&point=ffffff&area=true&area_color=52525b&hide_border=true&radius=10" width="100%" alt="Contribution activity graph" />
 
 <br/>
 
