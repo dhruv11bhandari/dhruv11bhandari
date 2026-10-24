@@ -18,21 +18,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f7ff,50:7c3aed,100:ff2e97" width="100%" alt="" />
 
-## 🖥️ `boot_sequence.sh`
-
-```text
-dhruv@github:~$ whoami
-  Computer Science student building software products and practical systems.
-  Interests: AI applications · full-stack development · developer tools
-
-dhruv@github:~$ ls projects
-  AI-Knowledge-Universe-/
-  mortgage-document-processor/
-  Quantflow.swiftpm
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff2e97,50:7c3aed,100:00f7ff" width="100%" alt="" />
-
 ## 🧠 Areas I Explore
 
 ```mermaid
