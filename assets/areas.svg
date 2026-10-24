@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-labelledby="title desc">
+  <title id="title">Areas I Explore</title>
+  <desc id="desc">Three areas: AI applications, full-stack products, and systems and tools.</desc>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="1" y="11" width="278" height="128" rx="10" fill="#0d1117" stroke="#3f3f46" stroke-width="2"/>
+    <path d="M12 12H268" stroke="#a1a1aa" stroke-width="2"/>
+    <text x="24" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#9ca3af">01 / INTELLIGENCE</text>
+    <text x="24" y="82" font-size="20" font-weight="700" fill="#f4f4f5">AI Applications</text>
+    <text x="24" y="110" font-size="12" fill="#a1a1aa">Knowledge · Search · Automation</text>
+
+    <rect x="311" y="11" width="278" height="128" rx="10" fill="#0d1117" stroke="#3f3f46" stroke-width="2"/>
+    <path d="M322 12H578" stroke="#a1a1aa" stroke-width="2"/>
+    <text x="334" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#9ca3af">02 / PRODUCT</text>
+    <text x="334" y="82" font-size="20" font-weight="700" fill="#f4f4f5">Full-Stack Products</text>
+    <text x="334" y="110" font-size="12" fill="#a1a1aa">Interfaces · APIs · End-to-end builds</text>
+
+    <rect x="621" y="11" width="278" height="128" rx="10" fill="#0d1117" stroke="#3f3f46" stroke-width="2"/>
+    <path d="M632 12H888" stroke="#a1a1aa" stroke-width="2"/>
+    <text x="644" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#9ca3af">03 / SYSTEMS</text>
+    <text x="644" y="82" font-size="20" font-weight="700" fill="#f4f4f5">Systems &amp; Tools</text>
+    <text x="644" y="110" font-size="12" fill="#a1a1aa">Pipelines · Developer workflows</text>
+  </g>
+</svg>
