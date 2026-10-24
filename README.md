@@ -44,11 +44,126 @@ flowchart LR
 <div align="center">
 
 **Languages and frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=python,swift,js,ts,html,css,flask&perline=7&theme=dark" alt="Python, Swift, JavaScript, TypeScript, HTML, CSS, and Flask" />
 
-**Project themes**<br/>
-Semantic search · Knowledge graphs · Document processing · Offline-first apps
+<h3 align="left"> Languages and Tools:</h3>
 
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff2e97,50:7c3aed,100:00f7ff" width="100%" alt="" />
@@ -89,54 +204,20 @@ Semantic search · Knowledge graphs · Document processing · Offline-first apps
 
 </div>
 
-## 🐍 The Snake Is Eating My Commits
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruv11bhandari/dhruv11bhandari/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruv11bhandari/dhruv11bhandari/output/github-snake.svg" />
-  <img alt="Animated snake following the contribution graph" src="https://raw.githubusercontent.com/dhruv11bhandari/dhruv11bhandari/output/github-snake-dark.svg" />
-</picture>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff2e97,50:7c3aed,100:00f7ff" width="100%" alt="" />
 
-## 🎮 Click Around
 
-<details>
-<summary><b>🏆 GitHub Trophy Case</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhruv11bhandari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub profile trophies" />
-</div>
-</details>
-
-<details>
-<summary><b>🤝 Let's Build Something Together</b></summary>
-<br/>
-
-- 🧠 AI and data-focused projects
-- ⚡ Hackathons and build sprints
-- 🛠️ Open-source developer tools
-- 💬 Systems, algorithms, and product ideas
 
 📬 [Connect on LinkedIn](https://www.linkedin.com/in/dhruv-bhandari-b08041364/) or open an issue on one of my repositories.
 
-</details>
-
-<details>
-<summary><b>💬 Dev Quote of the Moment</b></summary>
-<br/>
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="A rotating developer quote" />
-</div>
-</details>
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=7C3AED&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Explore+the+projects+%E2%AD%90;Let's+build+something+cool+%F0%9F%9A%80" alt="Thanks for visiting" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=7C3AED&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+stopping+by;Explore+the+projects" alt="Thanks for visiting" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00f7ff,50:7c3aed,100:0a0a23&section=footer" width="100%" alt="" />
 
