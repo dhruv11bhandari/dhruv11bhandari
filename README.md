@@ -45,20 +45,8 @@
 
 <img src="./assets/glow-line.svg" width="100%" height="3" alt="" />
 
-## Tools & Topics
 
-<div align="center">
-
-
-
-<img src="https://img.shields.io/badge/-Artificial%20Intelligence-27272A?style=flat-square" alt="Artificial Intelligence" />
-<img src="https://img.shields.io/badge/-Full--Stack%20Systems-27272A?style=flat-square" alt="Full-Stack Systems" />
-<img src="https://img.shields.io/badge/-Developer%20Tools-27272A?style=flat-square" alt="Developer Tools" />
-<img src="https://img.shields.io/badge/-Data--Driven%20Applications-27272A?style=flat-square" alt="Data-Driven Applications" />
-<img src="https://img.shields.io/badge/-Algorithmic%20Thinking-27272A?style=flat-square" alt="Algorithmic Thinking" />
-<img src="https://img.shields.io/badge/-Scalable%20Software%20Systems-27272A?style=flat-square" alt="Scalable Software Systems" />
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"></h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
