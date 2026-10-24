@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0a0a23,40:1b1464,70:7c3aed,100:00f7ff&text=DHRUV%20BHANDARI&fontColor=ffffff&fontSize=62&fontAlignY=36&animation=twinkling&desc=%3E%20software%20%7C%20AI%20%7C%20systems&descAlignY=58&descSize=17" width="100%" alt="Neon Dhruv Bhandari banner" />
 
 <a href="https://github.com/dhruv11bhandari">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=820&height=55&repeat=true&lines=%24+whoami+%E2%86%92+Dhruv+Bhandari;%24+role+%E2%86%92+CS+Student+%7C+Full-Stack+Developer;%24+building+%E2%86%92+AI+%2B+Practical+Software;%24+status+%E2%86%92+learning+%26+shipping+%E2%9A%A1" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=820&height=55&repeat=true&lines=%24+who_am_i+%E2%86%92+Dhruv+Bhandari;%24+role+%E2%86%92+CS+Student+%7C+Full-Stack+Developer;%24+building+%E2%86%92+AI+%2B+Practical+Software;%24+status+%E2%86%92+learning+%26+shipping+%E2%9A%A1" alt="Typing introduction" />
 </a>
 
 <br/><br/>
@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f7ff,50:7c3aed,100:ff2e97" width="100%" alt="" />
 
-## 🧠 Areas I Explore
+## Areas I Explore
 
 ```mermaid
 flowchart LR
@@ -29,23 +29,23 @@ flowchart LR
     E --> A
 ```
 
-## ⚙️ Build Loop
+## Build Loop
 
 <div align="center">
 
-`💡 Idea` &nbsp; → &nbsp; `🧩 Prototype` &nbsp; → &nbsp; `🧪 Test and refine` &nbsp; → &nbsp; `🚀 Share`
+` Idea` &nbsp; → &nbsp; `Prototype` &nbsp; → &nbsp; `Test and refine` &nbsp; → &nbsp; `Share`
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f7ff,50:7c3aed,100:ff2e97" width="100%" alt="" />
 
-## 🧰 Tools & Topics
+## Tools & Topics
 
 <div align="center">
 
 **Languages and frameworks**<br/>
 
-<h3 align="left"> Languages and Tools:</h3>
+<h3 align="left"> </h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -168,13 +168,13 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff2e97,50:7c3aed,100:00f7ff" width="100%" alt="" />
 
-## 🌆 Contribution Skyline
+## Contribution Skyline
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
 </div>
 
-## 📊 Live Stats
+## Live Stats
 
 <div align="center">
 
@@ -187,13 +187,13 @@ flowchart LR
 
 <br/>
 
-<img src="https://ghchart.rshah.org/00f7ff/dhruv11bhandari" width="100%" alt="GitHub contribution activity chart" />
+
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f7ff,50:7c3aed,100:ff2e97" width="100%" alt="" />
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -210,7 +210,7 @@ flowchart LR
 
 
 
-📬 [Connect on LinkedIn](https://www.linkedin.com/in/dhruv-bhandari-b08041364/) or open an issue on one of my repositories.
+[Connect on LinkedIn](https://www.linkedin.com/in/dhruv-bhandari-b08041364/) or open an issue on one of my repositories.
 
 
 <br/>
