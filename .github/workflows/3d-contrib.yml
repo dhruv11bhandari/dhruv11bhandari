@@ -39,7 +39,7 @@ jobs:
               value = round(0.2126 * red + 0.7152 * green + 0.0722 * blue)
               return f"rgb({value}, {value}, {value})"
 
-          svg = re.sub(r"rgb\\((\\d+),\\s*(\\d+),\\s*(\\d+)\\)", grayscale, svg)
+          svg = re.sub(r"rgb\((\d+),\s*(\d+),\s*(\d+)\)", grayscale, svg)
           svg = svg.replace("#00000f", "#0d1117")
           output.write_text(svg, encoding="utf-8")
           PY
