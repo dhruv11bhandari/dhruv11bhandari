@@ -18,47 +18,55 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
 
-## Areas I Explore
-
-<table align="center">
+<table align="center" width="100%">
   <thead>
     <tr>
-      <th align="left"><sub>01 &nbsp; / &nbsp; INTELLIGENCE</sub></th>
-      <th align="left"><sub>02 &nbsp; / &nbsp; PRODUCT</sub></th>
-      <th align="left"><sub>03 &nbsp; / &nbsp; SYSTEMS</sub></th>
+      <th colspan="3" align="left">
+        <h2>Areas I Explore</h2>
+        <sub>THREE DIRECTIONS &nbsp; / &nbsp; ONE THROUGH LINE</sub>
+      </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top" width="33%">
+        <sub>01 &nbsp; / &nbsp; INTELLIGENCE</sub><br /><br />
         <strong>AI Applications</strong><br />
         <sub>Knowledge · Search · Automation</sub>
       </td>
       <td valign="top" width="33%">
+        <sub>02 &nbsp; / &nbsp; PRODUCT</sub><br /><br />
         <strong>Full-Stack Products</strong><br />
         <sub>Interfaces · APIs · End-to-end builds</sub>
       </td>
       <td valign="top" width="33%">
+        <sub>03 &nbsp; / &nbsp; SYSTEMS</sub><br /><br />
         <strong>Systems &amp; Tools</strong><br />
         <sub>Pipelines · Developer workflows</sub>
       </td>
     </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <sub>THE THROUGH LINE</sub><br />
+        <strong>Useful software.</strong>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3"><hr /></td>
+    </tr>
+    <tr>
+      <td colspan="3" align="left">
+        <h2>Build Loop</h2>
+        <sub>FROM FIRST IDEA TO SHARED WORK</sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <code>Idea</code> &nbsp; → &nbsp; <code>Prototype</code> &nbsp; → &nbsp; <code>Test and refine</code> &nbsp; → &nbsp; <code>Share</code>
+      </td>
+    </tr>
   </tbody>
 </table>
-
-<p align="center">
-  <sub>THREE DIRECTIONS &nbsp; → &nbsp; ONE THROUGH LINE</sub><br />
-  <strong>Useful software.</strong><br />
-  <code>Build</code> &nbsp; · &nbsp; <code>Learn</code> &nbsp; · &nbsp; <code>Improve</code>
-</p>
-
-## Build Loop
-
-<div align="center">
-
-` Idea` &nbsp; → &nbsp; `Prototype` &nbsp; → &nbsp; `Test and refine` &nbsp; → &nbsp; `Share`
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
 
