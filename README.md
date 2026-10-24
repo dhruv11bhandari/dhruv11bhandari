@@ -20,11 +20,37 @@
 
 ## Areas I Explore
 
-<div align="center">
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left"><sub>01 &nbsp; / &nbsp; INTELLIGENCE</sub></th>
+      <th align="left"><sub>02 &nbsp; / &nbsp; PRODUCT</sub></th>
+      <th align="left"><sub>03 &nbsp; / &nbsp; SYSTEMS</sub></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" width="33%">
+        <strong>AI Applications</strong><br />
+        <sub>Knowledge · Search · Automation</sub>
+      </td>
+      <td valign="top" width="33%">
+        <strong>Full-Stack Products</strong><br />
+        <sub>Interfaces · APIs · End-to-end builds</sub>
+      </td>
+      <td valign="top" width="33%">
+        <strong>Systems &amp; Tools</strong><br />
+        <sub>Pipelines · Developer workflows</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<img src="./assets/areas-explore.svg" width="100%" alt="AI applications, full-stack products, and systems and tools converging into useful software" />
-
-</div>
+<p align="center">
+  <sub>THREE DIRECTIONS &nbsp; → &nbsp; ONE THROUGH LINE</sub><br />
+  <strong>Useful software.</strong><br />
+  <code>Build</code> &nbsp; · &nbsp; <code>Learn</code> &nbsp; · &nbsp; <code>Improve</code>
+</p>
 
 ## Build Loop
 
