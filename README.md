@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,40:171717,70:343a40,100:737373&text=DHRUV%20BHANDARI&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=%3E%20software%20%7C%20AI%20%7C%20systems&descAlignY=58&descSize=17" width="100%" alt="Monochrome Dhruv Bhandari banner" />
 
 <a href="https://github.com/dhruv11bhandari">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=D1D5DB&center=true&vCenter=true&width=820&height=55&repeat=true&lines=%24+who_am_i+%E2%86%92+Dhruv+Bhandari;%24+role+%E2%86%92+CS+Student+%7C+Full-Stack+Developer;%24+building+%E2%86%92+AI+%2B+Practical+Software;%24+recognition+%E2%86%92+Hackathon+Winner+%28Bangalore%29;%24+status+%E2%86%92+learning+%26+shipping" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=D1D5DB&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=55&amp;repeat=true&amp;lines=%24+who_am_i+%E2%86%92+Dhruv+Bhandari;%24+role+%E2%86%92+CS+Student+%7C+Full-Stack+Developer;%24+building+%E2%86%92+AI+%2B+Practical+Software;%24+recognition+%E2%86%92+Hackathon+Winner+%28Bangalore%29;%24+status+%E2%86%92+learning+%26+shipping" alt="Typing introduction" />
 </a>
 
 <br/><br/>
