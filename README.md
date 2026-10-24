@@ -58,9 +58,6 @@ flowchart LR
     <td colspan="9"><img src="./assets/glow-line.svg" width="100%" height="4" alt="" /></td>
   </tr>
   <tr>
-    <td colspan="9"><img src="./assets/glow-line.svg" width="100%" height="4" alt="" /></td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
@@ -97,6 +94,9 @@ flowchart LR
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
       <br>C#
     </td>
+  </tr>
+  <tr>
+    <td colspan="9"><img src="./assets/glow-line.svg" width="100%" height="4" alt="" /></td>
   </tr>
   <tr>
     <td align="center" width="96">
