@@ -20,14 +20,11 @@
 
 ## Areas I Explore
 
-```mermaid
-flowchart LR
-    A[AI Applications] --> D[Useful Software]
-    B[Full-Stack Products] --> D
-    C[Systems and Tools] --> D
-    D --> E[Build · Learn · Improve]
-    E --> A
-```
+<div align="center">
+
+<img src="./assets/areas-explore.svg" width="100%" alt="AI applications, full-stack products, and systems and tools converging into useful software" />
+
+</div>
 
 ## Build Loop
 
