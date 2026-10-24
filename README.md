@@ -87,7 +87,7 @@ Semantic search · Knowledge graphs · Document processing · Offline-first apps
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv11bhandari&bg_color=0d1117&color=00f7ff&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=10" width="100%" alt="GitHub activity graph" />
+<img src="https://ghchart.rshah.org/00f7ff/dhruv11bhandari" width="100%" alt="GitHub contribution activity chart" />
 
 </div>
 
