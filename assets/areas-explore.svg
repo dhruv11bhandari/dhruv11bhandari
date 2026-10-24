@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+  <title id="title">Areas I Explore</title>
+  <desc id="desc">AI applications, full-stack products, and systems and tools converge into useful software.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#11102a"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f7ff"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff2e97"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8992c0" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="440" rx="24" fill="url(#bg)"/>
+  <rect width="960" height="440" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="958" height="438" rx="23" fill="none" stroke="#7c3aed" stroke-opacity=".45"/>
+  <circle cx="844" cy="87" r="150" fill="#7c3aed" opacity=".08"/>
+  <circle cx="132" cy="398" r="180" fill="#00f7ff" opacity=".045"/>
+  <text x="52" y="53" fill="#00f7ff" font-family="monospace" font-size="12" letter-spacing="3">CURIOSITY / IN MOTION</text>
+  <text x="52" y="82" fill="#e9edff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Areas I Explore</text>
+  <path d="M52 98H908" stroke="url(#cyan)" stroke-opacity=".45"/>
+  
+  <g fill="none" stroke="url(#cyan)" stroke-width="2" stroke-opacity=".75">
+    <path d="M358 157H430Q468 157 486 190L510 217"/>
+    <path d="M358 238H510"/>
+    <path d="M358 319H430Q468 319 486 286L510 260"/>
+  </g>
+  <g fill="#00f7ff" filter="url(#glow)">
+    <circle cx="420" cy="157" r="3"/><circle cx="448" cy="238" r="3"/><circle cx="420" cy="319" r="3"/>
+  </g>
+  
+  <g>
+    <rect x="52" y="123" width="306" height="68" rx="14" fill="#111a2d" stroke="#00f7ff" stroke-opacity=".75"/>
+    <rect x="52" y="123" width="4" height="68" rx="2" fill="#00f7ff"/>
+    <circle cx="82" cy="157" r="14" fill="#00f7ff" fill-opacity=".12" stroke="#00f7ff" stroke-opacity=".7"/>
+    <path d="M76 160c2-7 10-9 13-3 3 6-5 10-10 8m2-16v3m8 11 2 2" fill="none" stroke="#00f7ff" stroke-width="1.6" stroke-linecap="round"/>
+    <text x="108" y="153" fill="#f0f3ff" font-family="Arial, sans-serif" font-size="17" font-weight="700">AI Applications</text>
+    <text x="108" y="173" fill="#9da9c8" font-family="Arial, sans-serif" font-size="12">Knowledge · Search · Automation</text>
+    <text x="332" y="148" text-anchor="end" fill="#00f7ff" font-family="monospace" font-size="10">01</text>
+  </g>
+  <g>
+    <rect x="52" y="204" width="306" height="68" rx="14" fill="#111a2d" stroke="#a279ff" stroke-opacity=".8"/>
+    <rect x="52" y="204" width="4" height="68" rx="2" fill="#a279ff"/>
+    <circle cx="82" cy="238" r="14" fill="#a279ff" fill-opacity=".14" stroke="#a279ff" stroke-opacity=".8"/>
+    <path d="M75 235h14v10H75zM79 232h6m-3 13v3m-4 0h8" fill="none" stroke="#c5aaff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="108" y="234" fill="#f0f3ff" font-family="Arial, sans-serif" font-size="17" font-weight="700">Full-Stack Products</text>
+    <text x="108" y="254" fill="#9da9c8" font-family="Arial, sans-serif" font-size="12">Interfaces · APIs · End-to-end builds</text>
+    <text x="332" y="229" text-anchor="end" fill="#c5aaff" font-family="monospace" font-size="10">02</text>
+  </g>
+  <g>
+    <rect x="52" y="285" width="306" height="68" rx="14" fill="#111a2d" stroke="#ff2e97" stroke-opacity=".8"/>
+    <rect x="52" y="285" width="4" height="68" rx="2" fill="#ff2e97"/>
+    <circle cx="82" cy="319" r="14" fill="#ff2e97" fill-opacity=".13" stroke="#ff2e97" stroke-opacity=".8"/>
+    <path d="M74 319h5l3-6 4 12 3-6h5" fill="none" stroke="#ff75b8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="108" y="315" fill="#f0f3ff" font-family="Arial, sans-serif" font-size="17" font-weight="700">Systems &amp; Tools</text>
+    <text x="108" y="335" fill="#9da9c8" font-family="Arial, sans-serif" font-size="12">Pipelines · Developer workflows</text>
+    <text x="332" y="310" text-anchor="end" fill="#ff75b8" font-family="monospace" font-size="10">03</text>
+  </g>
+  
+  <g filter="url(#glow)">
+    <circle cx="650" cy="238" r="116" fill="#11152a" stroke="url(#cyan)" stroke-width="2"/>
+    <circle cx="650" cy="238" r="101" fill="none" stroke="#7c3aed" stroke-opacity=".5" stroke-dasharray="2 8"/>
+    <circle cx="650" cy="238" r="78" fill="#141b32" stroke="#273b60"/>
+  </g>
+  <path d="M650 155v-18m0 202v-18m83-83h18m-202 0h18" stroke="#00f7ff" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="650" cy="137" r="3" fill="#00f7ff"/><circle cx="650" cy="339" r="3" fill="#ff2e97"/>
+  <text x="650" y="222" text-anchor="middle" fill="#00f7ff" font-family="monospace" font-size="11" letter-spacing="2">THE COMMON THREAD</text>
+  <text x="650" y="252" text-anchor="middle" fill="#f4f6ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Useful</text>
+  <text x="650" y="280" text-anchor="middle" fill="#f4f6ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Software</text>
+  <text x="650" y="383" text-anchor="middle" fill="#8995b6" font-family="monospace" font-size="11" letter-spacing="1.5">BUILD  ·  LEARN  ·  IMPROVE</text>
+  <path d="M810 367h92" stroke="url(#pink)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="810" cy="367" r="3" fill="#ff2e97"/>
+</svg>
