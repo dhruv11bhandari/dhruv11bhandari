@@ -18,55 +18,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
 
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th colspan="3" align="left">
-        <h2>Areas I Explore</h2>
-        <sub>THREE DIRECTIONS &nbsp; / &nbsp; ONE THROUGH LINE</sub>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top" width="33%">
-        <sub>01 &nbsp; / &nbsp; INTELLIGENCE</sub><br /><br />
-        <strong>AI Applications</strong><br />
-        <sub>Knowledge · Search · Automation</sub>
-      </td>
-      <td valign="top" width="33%">
-        <sub>02 &nbsp; / &nbsp; PRODUCT</sub><br /><br />
-        <strong>Full-Stack Products</strong><br />
-        <sub>Interfaces · APIs · End-to-end builds</sub>
-      </td>
-      <td valign="top" width="33%">
-        <sub>03 &nbsp; / &nbsp; SYSTEMS</sub><br /><br />
-        <strong>Systems &amp; Tools</strong><br />
-        <sub>Pipelines · Developer workflows</sub>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center">
-        <sub>THE THROUGH LINE</sub><br />
-        <strong>Useful software.</strong>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3"><hr /></td>
-    </tr>
-    <tr>
-      <td colspan="3" align="left">
-        <h2>Build Loop</h2>
-        <sub>FROM FIRST IDEA TO SHARED WORK</sub>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center">
-        <code>Idea</code> &nbsp; → &nbsp; <code>Prototype</code> &nbsp; → &nbsp; <code>Test and refine</code> &nbsp; → &nbsp; <code>Share</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Areas I Explore
+
+<p align="center"><sub>THREE DIRECTIONS &nbsp; / &nbsp; ONE THROUGH LINE</sub></p>
+
+| **01 / INTELLIGENCE** | **02 / PRODUCT** | **03 / SYSTEMS** |
+|:--|:--|:--|
+| **AI Applications**<br><sub>Knowledge · Search · Automation</sub> | **Full-Stack Products**<br><sub>Interfaces · APIs · End-to-end builds</sub> | **Systems &amp; Tools**<br><sub>Pipelines · Developer workflows</sub> |
+
+<p align="center"><strong>Useful software.</strong></p>
+
+## Build Loop
+
+<p align="center"><sub>FROM FIRST IDEA TO SHARED WORK</sub></p>
+
+<p align="center">
+  <code>01 &nbsp; Idea</code> &nbsp; → &nbsp;
+  <code>02 &nbsp; Prototype</code> &nbsp; → &nbsp;
+  <code>03 &nbsp; Test and refine</code> &nbsp; → &nbsp;
+  <code>04 &nbsp; Share</code>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
 
