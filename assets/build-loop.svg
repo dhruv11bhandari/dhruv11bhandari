@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-labelledby="title desc">
+  <title id="title">Build Loop</title>
+  <desc id="desc">Idea leads to prototype, test and refine, and share, then iterate.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="7" markerHeight="7" refX="5.5" refY="3.5" orient="auto">
+      <path d="M0 0L7 3.5L0 7Z" fill="#71717a"/>
+    </marker>
+  </defs>
+  <g fill="none" stroke="#52525b" stroke-width="2" marker-end="url(#arrow)">
+    <path d="M204 52H234"/>
+    <path d="M430 52H460"/>
+    <path d="M656 52H686"/>
+  </g>
+  <g font-family="ui-monospace, Menlo, Consolas, monospace" text-anchor="middle">
+    <rect x="8" y="30" width="196" height="46" rx="8" fill="#0d1117" stroke="#71717a" stroke-width="1.5"/>
+    <text x="106" y="58" font-size="14"><tspan fill="#9ca3af">01</tspan><tspan fill="#f4f4f5" dx="10">Idea</tspan></text>
+    <rect x="234" y="30" width="196" height="46" rx="8" fill="#0d1117" stroke="#52525b" stroke-width="1.5"/>
+    <text x="332" y="58" font-size="14"><tspan fill="#9ca3af">02</tspan><tspan fill="#f4f4f5" dx="10">Prototype</tspan></text>
+    <rect x="460" y="30" width="196" height="46" rx="8" fill="#0d1117" stroke="#52525b" stroke-width="1.5"/>
+    <text x="558" y="58" font-size="14"><tspan fill="#9ca3af">03</tspan><tspan fill="#f4f4f5" dx="10">Test and refine</tspan></text>
+    <rect x="686" y="30" width="206" height="46" rx="8" fill="#0d1117" stroke="#52525b" stroke-width="1.5"/>
+    <text x="789" y="58" font-size="14"><tspan fill="#9ca3af">04</tspan><tspan fill="#f4f4f5" dx="10">Share</tspan></text>
+  </g>
+  <path d="M790 92C790 128 110 128 110 92" fill="none" stroke="#52525b" stroke-width="1.5" stroke-dasharray="4 6"/>
+  <text x="450" y="140" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" letter-spacing="3" fill="#9ca3af">ITERATE</text>
+</svg>
