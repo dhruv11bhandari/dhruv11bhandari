@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">Dhruv Bhandari — terminal introduction</title>
+  <desc id="desc">Computer Science student and Full-Stack Developer exploring AI applications, systems, and useful software. Winner of The Next Big Innovator Bangalore Makethon.</desc>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#1f1f23"/>
+    </pattern>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1c20"/>
+      <stop offset="1" stop-color="#121214"/>
+    </linearGradient>
+    <clipPath id="window"><rect x="1" y="1" width="898" height="318" rx="12"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="898" height="318" rx="12" fill="#0d1117" stroke="#52525b" stroke-width="2"/>
+  <g clip-path="url(#window)">
+    <rect width="900" height="320" fill="url(#dots)"/>
+    <rect width="900" height="40" fill="url(#bar)"/>
+    <path d="M0 40H900" stroke="#303036"/>
+  </g>
+  <circle cx="24" cy="20" r="6" fill="#52525b"/>
+  <circle cx="46" cy="20" r="6" fill="#71717a"/>
+  <circle cx="68" cy="20" r="6" fill="#9ca3af"/>
+  <text x="450" y="25" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" fill="#9ca3af">dhruv@github: ~</text>
+  <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15">
+    <text x="32" y="78"><tspan fill="#71717a">$ </tspan><tspan fill="#e5e7eb">whoami</tspan></text>
+    <text x="32" y="104" fill="#ffffff" font-weight="700">Dhruv Bhandari</text>
+    <text x="32" y="138"><tspan fill="#71717a">$ </tspan><tspan fill="#e5e7eb">cat role.txt</tspan></text>
+    <text x="32" y="164" fill="#c4c4c9">Computer Science Student  |  Full-Stack Developer</text>
+    <text x="32" y="198"><tspan fill="#71717a">$ </tspan><tspan fill="#e5e7eb">cat focus.txt</tspan></text>
+    <text x="32" y="224" fill="#c4c4c9">AI Applications  |  Full-Stack Systems  |  Developer Tools</text>
+    <text x="32" y="258"><tspan fill="#71717a">$ </tspan><tspan fill="#e5e7eb">cat recognition.txt</tspan></text>
+    <text x="32" y="284" fill="#d1d5db">Winner — The Next Big Innovator Bangalore Makethon</text>
+  </g>
+</svg>
