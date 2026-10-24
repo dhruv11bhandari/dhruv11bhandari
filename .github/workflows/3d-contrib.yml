@@ -24,6 +24,26 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Create a grayscale contribution skyline
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          source = Path("profile-3d-contrib/profile-night-green.svg")
+          output = Path("profile-3d-contrib/profile-night-mono.svg")
+          svg = source.read_text(encoding="utf-8")
+
+          def grayscale(match):
+              red, green, blue = (int(value) for value in match.groups())
+              value = round(0.2126 * red + 0.7152 * green + 0.0722 * blue)
+              return f"rgb({value}, {value}, {value})"
+
+          svg = re.sub(r"rgb\((\d+),\s*(\d+),\s*(\d+)\)", grayscale, svg)
+          svg = svg.replace("#00000f", "#0d1117")
+          output.write_text(svg, encoding="utf-8")
+          PY
+
       - name: Commit generated skyline
         run: |
           git add profile-3d-contrib/
