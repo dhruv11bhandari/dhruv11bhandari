@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0a0a23,40:1b1464,70:7c3aed,100:00f7ff&text=DHRUV%20BHANDARI&fontColor=ffffff&fontSize=62&fontAlignY=36&animation=twinkling&desc=%3E%20software%20%7C%20AI%20%7C%20systems&descAlignY=58&descSize=17" width="100%" alt="Neon Dhruv Bhandari banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,40:171717,70:343a40,100:737373&text=DHRUV%20BHANDARI&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=%3E%20software%20%7C%20AI%20%7C%20systems&descAlignY=58&descSize=17" width="100%" alt="Monochrome Dhruv Bhandari banner" />
 
 <a href="https://github.com/dhruv11bhandari">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=820&height=55&repeat=true&lines=%24+who_am_i+%E2%86%92+Dhruv+Bhandari;%24+role+%E2%86%92+CS+Student+%7C+Full-Stack+Developer;%24+building+%E2%86%92+AI+%2B+Practical+Software;%24+status+%E2%86%92+learning+%26+shipping+%E2%9A%A1" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=D1D5DB&center=true&vCenter=true&width=820&height=55&repeat=true&lines=%24+who_am_i+%E2%86%92+Dhruv+Bhandari;%24+role+%E2%86%92+CS+Student+%7C+Full-Stack+Developer;%24+building+%E2%86%92+AI+%2B+Practical+Software;%24+status+%E2%86%92+learning+%26+shipping+%E2%9A%A1" alt="Typing introduction" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dhruv11bhandari&label=VISITORS&color=7C3AED&style=for-the-badge&labelColor=0d1117" alt="Profile visitors" />
-<a href="https://github.com/dhruv11bhandari?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-00F7FF?style=for-the-badge&labelColor=0d1117" alt="Explore projects" /></a>
-<a href="https://www.linkedin.com/in/dhruv-bhandari-b08041364/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=dhruv11bhandari&label=VISITORS&color=9CA3AF&style=for-the-badge&labelColor=111111" alt="Profile visitors" />
+<a href="https://github.com/dhruv11bhandari?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-9CA3AF?style=for-the-badge&labelColor=111111" alt="Explore projects" /></a>
+<a href="https://www.linkedin.com/in/dhruv-bhandari-b08041364/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6B7280?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f7ff,50:7c3aed,100:ff2e97" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
 
 ## Areas I Explore
 
@@ -34,7 +34,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f7ff,50:7c3aed,100:ff2e97" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
 
 ## Tools & Topics
 
@@ -180,24 +180,24 @@
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff2e97,50:7c3aed,100:00f7ff" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
 
 ## Contribution Skyline
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+  <img src="./profile-3d-contrib/profile-night-mono.svg" width="100%" alt="3D GitHub contribution graph" />
 </div>
 
 ## Live Stats
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=dhruv11bhandari&show_icons=true&hide_border=false&border_color=7C3AED&bg_color=0d1117&title_color=00F7FF&icon_color=FF2E97&text_color=C9D1D9&include_all_commits=true" alt="GitHub profile stats" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv11bhandari&layout=donut&hide_border=false&border_color=7C3AED&bg_color=0d1117&title_color=00F7FF&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=dhruv11bhandari&show_icons=true&hide_border=false&border_color=52525B&bg_color=0d1117&title_color=F4F4F5&icon_color=A1A1AA&text_color=D1D5DB&include_all_commits=true" alt="GitHub profile stats" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv11bhandari&layout=donut&hide_border=false&border_color=52525B&bg_color=0d1117&title_color=F4F4F5&text_color=D1D5DB&langs_count=8" alt="Most used languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=dhruv11bhandari&theme=dark&background=0d1117&border=7C3AED&ring=00F7FF&fire=FF2E97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=dhruv11bhandari&theme=dark&background=0d1117&border=52525B&ring=E5E7EB&fire=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E5E7EB&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
 <br/>
 
@@ -205,22 +205,22 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f7ff,50:7c3aed,100:ff2e97" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
 
 ## Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/dhruv11bhandari/AI-Knowledge-Universe-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv11bhandari&repo=AI-Knowledge-Universe-&bg_color=0d1117&border_color=7C3AED&title_color=00F7FF&icon_color=FF2E97&text_color=C9D1D9" alt="AI Knowledge Universe project card" /></a>
-<a href="https://github.com/dhruv11bhandari/mortgage-document-processor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv11bhandari&repo=mortgage-document-processor&bg_color=0d1117&border_color=7C3AED&title_color=00F7FF&icon_color=FF2E97&text_color=C9D1D9" alt="Mortgage document processor project card" /></a>
+<a href="https://github.com/dhruv11bhandari/AI-Knowledge-Universe-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv11bhandari&repo=AI-Knowledge-Universe-&bg_color=0d1117&border_color=52525B&title_color=F4F4F5&icon_color=A1A1AA&text_color=D1D5DB" alt="AI Knowledge Universe project card" /></a>
+<a href="https://github.com/dhruv11bhandari/mortgage-document-processor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv11bhandari&repo=mortgage-document-processor&bg_color=0d1117&border_color=52525B&title_color=F4F4F5&icon_color=A1A1AA&text_color=D1D5DB" alt="Mortgage document processor project card" /></a>
 <br/>
-<a href="https://github.com/dhruv11bhandari/Quantflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv11bhandari&repo=Quantflow&bg_color=0d1117&border_color=7C3AED&title_color=00F7FF&icon_color=FF2E97&text_color=C9D1D9" alt="Quantflow project card" /></a>
+<a href="https://github.com/dhruv11bhandari/Quantflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv11bhandari&repo=Quantflow&bg_color=0d1117&border_color=52525B&title_color=F4F4F5&icon_color=A1A1AA&text_color=D1D5DB" alt="Quantflow project card" /></a>
 
 </div>
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff2e97,50:7c3aed,100:00f7ff" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
 
 
 
@@ -231,8 +231,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=7C3AED&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+stopping+by;Explore+the+projects" alt="Thanks for visiting" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=9CA3AF&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+stopping+by;Explore+the+projects" alt="Thanks for visiting" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00f7ff,50:7c3aed,100:0a0a23&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:f4f4f5,50:71717a,100:090909&section=footer" width="100%" alt="" />
 
 </div>
