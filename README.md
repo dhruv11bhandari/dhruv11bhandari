@@ -218,7 +218,6 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv11bhandari&bg_color=0d1117&color=d1d5db&line=9ca3af&point=ffffff&area=true&area_color=52525b&hide_border=true&radius=10" width="100%" alt="Contribution activity graph" />
 
 <br/>
 
