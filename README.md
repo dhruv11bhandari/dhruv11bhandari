@@ -43,12 +43,23 @@ flowchart LR
 
 <div align="center">
 
-**Languages and frameworks**<br/>
 
-<h3 align="left"> </h3>
+
+<h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
+  <tr>
+    <td colspan="9" align="center">
+      <img src="./assets/tech-banner.svg" width="100%" alt="Languages and Tools" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="9"><img src="./assets/glow-line.svg" width="100%" height="4" alt="" /></td>
+  </tr>
+  <tr>
+    <td colspan="9"><img src="./assets/glow-line.svg" width="100%" height="4" alt="" /></td>
+  </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
@@ -125,6 +136,9 @@ flowchart LR
       <br>jQuery
     </td>
   </tr>
+  <tr>
+    <td colspan="9"><img src="./assets/glow-line.svg" width="100%" height="4" alt="" /></td>
+  </tr>
  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
@@ -162,6 +176,9 @@ flowchart LR
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+  </tr>
+  <tr>
+    <td colspan="9"><img src="./assets/glow-line.svg" width="100%" height="4" alt="" /></td>
   </tr>
 </table>
 </div>
