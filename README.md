@@ -215,16 +215,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:f4f4f5,50:71717a,100:f4f4f5" width="100%" alt="" />
 
-## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/dhruv11bhandari/AI-Knowledge-Universe-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv11bhandari&repo=AI-Knowledge-Universe-&bg_color=0d1117&border_color=52525B&title_color=F4F4F5&icon_color=A1A1AA&text_color=D1D5DB" alt="AI Knowledge Universe project card" /></a>
-<a href="https://github.com/dhruv11bhandari/mortgage-document-processor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv11bhandari&repo=mortgage-document-processor&bg_color=0d1117&border_color=52525B&title_color=F4F4F5&icon_color=A1A1AA&text_color=D1D5DB" alt="Mortgage document processor project card" /></a>
-<br/>
-<a href="https://github.com/dhruv11bhandari/Quantflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv11bhandari&repo=Quantflow&bg_color=0d1117&border_color=52525B&title_color=F4F4F5&icon_color=A1A1AA&text_color=D1D5DB" alt="Quantflow project card" /></a>
-
-</div>
 
 
 
