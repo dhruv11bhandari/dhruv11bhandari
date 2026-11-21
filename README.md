@@ -13,6 +13,7 @@
 <a href="https://github.com/dhruv11bhandari?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-9CA3AF?style=for-the-badge&labelColor=111111" alt="Explore projects" /></a>
 <a href="https://www.linkedin.com/in/dhruv-bhandari-b08041364/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6B7280?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
+
 </div>
 
 <br/>
